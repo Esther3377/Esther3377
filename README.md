@@ -1,50 +1,30 @@
-# Hi, I'm Esther 👋🏽
+# Hi, I'm Esther Ndibueze 👋
 
-## Data Analyst | Power BI | Excel | Data Visualization  | Phyton 
+**Data Analyst | SQL & MySQL | Power BI | Microsoft Excel**
 
-I'm a Data Analyst, passionate about transforming data into meaningful insights that support better business decisions.
+I am a Data Analyst with a Banking and Finance background and practical experience analysing data, developing interactive dashboards, and generating business insights.
 
-I enjoy working with data to identify trends, understand business performance, and communicate insights through clear and interactive dashboards.
+My core tools are **SQL/MySQL, Power BI, and Microsoft Excel**. Through hands-on projects, I have practised querying and joining datasets, analysing key performance indicators, and presenting findings through interactive visualisations.
 
-### 🛠️ Skills & Tools
+### Core Skills
 
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- DAX
-- Data Cleaning
-- Data Visualization
-- Data Analysis
-- Phyton
-- Mysql
+* SQL & MySQL — querying, joins, filtering, aggregation
+* Power BI — dashboards, DAX measures, data visualisation
+* Microsoft Excel — data preparation, analysis, reporting
+* Python — currently learning
 
-### 📊 Featured Project
+### Featured Projects
 
-#### Logistics Fleet Analytics Dashboard
-#### Sales Analysis Dashboard 
+* **Fleet Analytics Dashboard:** SQL-based analysis and Power BI reporting on fleet operations, delivery performance, financial indicators, and safety.
+* **Sales Analysis Dashboard:** Power BI visualisation of sales performance.
 
-A Power BI capstone project analyzing profitability, delivery performance, operational efficiency, and safety risk across a 120-truck logistics fleet.
+### Connect With Me
 
-**Key areas analyzed:**
-- Fleet profitability
-- Delivery performance
-- Operational costs
-- Safety risks
-- Driver performance
-- Fleet efficiency
+* LinkedIn: https://linkedin.com/in/esther-ndibueze-418646297
+* GitHub: https://github.com/Esther3377
 
-👉 Check out the project in my pinned repositories.
+I am open to paid remote Data Analyst internships and entry-level analytics opportunities with international teams.
 
-### 🎯 Currently Building
-
-- Power BI dashboards
-- Data analysis projects
-- Business intelligence skills
-- A professional data analytics portfolio
-
-### 📫 Let's Connect
-
-I'm open to learning opportunities, internships, collaborations, and entry-level data analytics opportunities.
 
 <!--
 **Esther3377/Esther3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
